@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cícero's GitHub stats](https://github-readme-stats.vercel.app/api?username=c1c3ro&show_icons=true&theme=radical)
+![Cícero's GitHub stats](https://github-readme-stats-ten-iota-45.vercel.app/api?username=c1c3ro&show_icons=true&theme=radical)
 
 <!--
 **c1c3ro/c1c3ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
