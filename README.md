@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/c1c3ro/c1c3ro/blob/3ac3ea6675679fae035d8ddb27052fb159ff5172/banner%20(6).png)](https://github.com/c1c3ro)
+[![MasterHead](https://github.com/c1c3ro/c1c3ro/blob/5fccece8b775232c94e4f91ed40508d2f4828ea5/banner%20(6).png)](https://github.com/c1c3ro)
 
 <div align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-ten-iota-45.vercel.app/api?username=c1c3ro&show_icons=true&theme=radical" />
